@@ -1,0 +1,6 @@
+※ SQL TABEL_SEQUENCE_INSERT 문제
+hr 계정으로 접속하여, CAR 테이블과 CAR_SEQ를 생성하고,
+CAR 테이블에 칼럼을 NUM(NUMBER 타입), NAME(VARCHAR2(20)), PRODUCT(VARCHAR2(30))으로 생성하고,
+첫번째 순번부터 CAR_SEQ를 적용하여, 1번부터 시작하게 하고,
+첫번째 NAME값은 'SONATA', PRODUCT값은 '현대자동차'로
+하여 값을 넣어보시기 바랍니다.
